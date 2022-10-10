@@ -4,7 +4,7 @@ import java.util.Scanner;
 
  class Main {
 
-
+//Допустим.
      static void main(String[] args) {
         //while(true) {
 
